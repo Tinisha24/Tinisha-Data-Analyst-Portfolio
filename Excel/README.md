@@ -1,15 +1,15 @@
 
-**Introduction**
+**Introduction**:
 
 This repository contains a collection of interactive Excel dashboards designed to provide insights into your data. The dashboards utilize various charts, graphs, and tables to visually represent key performance indicators (KPIs) and trends, enabling you to make informed decisions.
 
-**Features**
+**Features**:
 
 User-Friendly Interface: The dashboards are designed with a clean and intuitive layout for easy navigation and understanding.
 Interactive Controls: Many dashboards incorporate slicers, timeline, or other interactive elements to allow users to filter and analyze data dynamically.
 Data-Driven Insights: Charts and graphs are linked to underlying data sources, ensuring automatic updates as new data is added.
 
-**Getting Started**
+**Getting Started**:
 
 Clone the Repository: Use Git to clone this repository to your local machine. If you're unfamiliar with Git, you can download the ZIP file from GitHub.
 
