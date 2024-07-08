@@ -1,4 +1,5 @@
 Resume: [https://1drv.ms/w/s!AtJZgbMVpsP8k3euXhbCVJjpELZG?e=Asx4mc] 
+
 Welcome to my Data Analyst Portfolio!
 
 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, data cleaning, data visualization and critical thinking.
