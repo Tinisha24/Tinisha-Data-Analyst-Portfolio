@@ -25,12 +25,10 @@ Display a summary of total sales, profits and quantity for the current year and 
 
  – Include a comparison of sales with profit.
 
-#### _4. Weekly Trends for Sales & Profit_:
- – Present weekly sales and profit data for the current year.
+#### _4. Total Sales by Shipping Mode_:
+ – Present total sales for the current year for different shipping modes.
 
- – Display the average weekly values.
-
- – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+ – Highlight modes with highest and lowest sales for the current year.
 
 ## Design & Interactivity Requirements
 ### Dashboard Dynamic:
