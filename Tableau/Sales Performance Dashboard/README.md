@@ -1,5 +1,6 @@
 # Tableau User Story | Sales Performance
-                                         
+[https://public.tableau.com/app/profile/tinisha.a/viz/SalesPerformanceDashboardDynamic/SalesDashboard                                     
+](url)
 ## Introduction:
 
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
