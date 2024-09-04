@@ -1,5 +1,8 @@
 Resume: [https://1drv.ms/w/s!AtJZgbMVpsP8k3euXhbCVJjpELZG?e=Asx4mc] 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tinisha-a-831241232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tinisha-a-831241232?trk=profile-badge">Tinisha A</a></div>
+              
+
 Welcome to my Data Analyst Portfolio!
 
 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, data cleaning, data visualization and critical thinking.
